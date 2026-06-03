@@ -1,6 +1,6 @@
 {
   "url": "https://tcgpro.zeabur.app/api/wallet-migrations.json",
-  "fetchedAt": 1780456723567,
+  "fetchedAt": 1780460323495,
   "payload": {
     "success": true,
     "version": 1,
