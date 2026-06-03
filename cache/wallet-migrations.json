@@ -1,6 +1,6 @@
 {
   "url": "https://tcgpro.zeabur.app/api/wallet-migrations.json",
-  "fetchedAt": 1780471123554,
+  "fetchedAt": 1780474723547,
   "payload": {
     "success": true,
     "version": 1,
@@ -33789,10 +33789,10 @@
       "0xffff4bbfcfd8718d5eefa899330cfad1bcd802df": "0xe9f5cb9a027f71221e6e0e38554b11d06cc222a3"
     },
     "status": {
-      "updated_at": "2026-06-03T07:00:06.924949+08:00",
+      "updated_at": "2026-06-03T16:07:33.649153+08:00",
       "success": true,
-      "trigger": "daily",
-      "message": "trigger=daily blocks=101773855-101965137 sbt_mints=34 helper_confirmed=86 confirmed=86 mappings=3752 map=/data/renaiss_sync/state/wallet_migration_map.json",
+      "trigger": "startup",
+      "message": "trigger=startup bootstrap_only=1 bootstrapped=1 map=/data/renaiss_sync/state/wallet_migration_map.json",
       "map_path": "/data/renaiss_sync/state/wallet_migration_map.json",
       "sbt_contract": "0x7d1b7db704d722295fbaa284008f526634673dbf",
       "sbt_token_id": "13",
@@ -33801,24 +33801,8 @@
       "helper_event_topic": "0xa8842895c03659cf75d4e5e2202ace2ef1981a77551fc02961bc661af0950830",
       "include_card_evidence": false,
       "extra": {
-        "ranges": 1,
-        "sbt_logs": 1352,
-        "sbt_token_events": 58,
-        "sbt_mints": 34,
-        "helper_logs": 86,
-        "helper_candidates": 86,
-        "helper_confirmed_pairs": 86,
-        "helper_event_only_pairs": 62,
-        "helper_with_sbt_delta_pairs": 24,
-        "card_logs": 0,
-        "card_confirmed_pairs": 0,
-        "confirmed_pairs": 86,
-        "from_block": 101773855,
-        "to_block": 101965137,
-        "latest_block": 101965137,
-        "mapping_count": 3752,
-        "new_pairs": 86,
-        "map_path": "/data/renaiss_sync/state/wallet_migration_map.json"
+        "bootstrap_only": true,
+        "bootstrapped": true
       }
     }
   }
