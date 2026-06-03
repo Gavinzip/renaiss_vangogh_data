@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1780471808434,
+  "updatedAt": 1780475390149,
   "entries": {
     "0x03de85370bd5f0818007ee79a74b73571f2f21c7": {
       "fetchedAt": 1780393108361,
@@ -2014,6 +2014,22 @@
       "fetchedAt": 1780471806926,
       "data": {
         "canonical": "0x5f45ae0b25e4a6d341e4444d7ec82efdc130b151",
+        "old_addresses": [],
+        "resolved_from_old": false
+      }
+    },
+    "0x3f01d9d2a7d5cc0a0fae875a8e596792b545f474": {
+      "fetchedAt": 1780475388239,
+      "data": {
+        "canonical": "0x3f01d9d2a7d5cc0a0fae875a8e596792b545f474",
+        "old_addresses": [],
+        "resolved_from_old": false
+      }
+    },
+    "0x9179dbdeae7491b9abbbc6633e9185ef197dce78": {
+      "fetchedAt": 1780475389131,
+      "data": {
+        "canonical": "0x9179dbdeae7491b9abbbc6633e9185ef197dce78",
         "old_addresses": [],
         "resolved_from_old": false
       }
