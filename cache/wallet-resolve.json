@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1780589152971,
+  "updatedAt": 1780592740572,
   "entries": {
     "0x03de85370bd5f0818007ee79a74b73571f2f21c7": {
       "fetchedAt": 1780567609111,
@@ -1995,7 +1995,7 @@
       }
     },
     "0x6bbca14fdda656981a8490f053fb2c3b28622a18": {
-      "fetchedAt": 1780504583650,
+      "fetchedAt": 1780592739000,
       "data": {
         "canonical": "0x6bbca14fdda656981a8490f053fb2c3b28622a18",
         "old_addresses": [],
@@ -2003,7 +2003,7 @@
       }
     },
     "0xf85a79bcdca2d9658026166addcbcfe5a3a6ecca": {
-      "fetchedAt": 1780504585007,
+      "fetchedAt": 1780592740473,
       "data": {
         "canonical": "0xf85a79bcdca2d9658026166addcbcfe5a3a6ecca",
         "old_addresses": [],
@@ -2174,6 +2174,38 @@
       "fetchedAt": 1780583715175,
       "data": {
         "canonical": "0x263c1a7f37270b7c17475e0378abaee996de0501",
+        "old_addresses": [],
+        "resolved_from_old": false
+      }
+    },
+    "0x19ec454505aa8553e292afd078860cfd64aebf34": {
+      "fetchedAt": 1780592738128,
+      "data": {
+        "canonical": "0x19ec454505aa8553e292afd078860cfd64aebf34",
+        "old_addresses": [],
+        "resolved_from_old": false
+      }
+    },
+    "0x2576b3436fe167851de9afdbbbb3cdc45258e59b": {
+      "fetchedAt": 1780592738190,
+      "data": {
+        "canonical": "0x2576b3436fe167851de9afdbbbb3cdc45258e59b",
+        "old_addresses": [],
+        "resolved_from_old": false
+      }
+    },
+    "0x55ada701cf5bc95ccd2d356e2b39a09e7573bdcc": {
+      "fetchedAt": 1780592738754,
+      "data": {
+        "canonical": "0x55ada701cf5bc95ccd2d356e2b39a09e7573bdcc",
+        "old_addresses": [],
+        "resolved_from_old": false
+      }
+    },
+    "0x97e6766fcb1abea1a3f3ecd8b8ad9910da42078a": {
+      "fetchedAt": 1780592739495,
+      "data": {
+        "canonical": "0x97e6766fcb1abea1a3f3ecd8b8ad9910da42078a",
         "old_addresses": [],
         "resolved_from_old": false
       }
