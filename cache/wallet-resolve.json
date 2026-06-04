@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1780585551669,
+  "updatedAt": 1780589152971,
   "entries": {
     "0x03de85370bd5f0818007ee79a74b73571f2f21c7": {
       "fetchedAt": 1780567609111,
@@ -1987,7 +1987,7 @@
       }
     },
     "0xe3f4b4daef46edb3699c660da247b0f27c01ec4d": {
-      "fetchedAt": 1780500974736,
+      "fetchedAt": 1780589152731,
       "data": {
         "canonical": "0xe3f4b4daef46edb3699c660da247b0f27c01ec4d",
         "old_addresses": [],
