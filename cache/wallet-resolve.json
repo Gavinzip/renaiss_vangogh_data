@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1780596362089,
+  "updatedAt": 1780599963764,
   "entries": {
     "0x03de85370bd5f0818007ee79a74b73571f2f21c7": {
       "fetchedAt": 1780567609111,
@@ -2206,6 +2206,14 @@
       "fetchedAt": 1780592739495,
       "data": {
         "canonical": "0x97e6766fcb1abea1a3f3ecd8b8ad9910da42078a",
+        "old_addresses": [],
+        "resolved_from_old": false
+      }
+    },
+    "0x756a4aeeb7e6e36585f7c87777fc3b3e2973f85d": {
+      "fetchedAt": 1780599962340,
+      "data": {
+        "canonical": "0x756a4aeeb7e6e36585f7c87777fc3b3e2973f85d",
         "old_addresses": [],
         "resolved_from_old": false
       }
