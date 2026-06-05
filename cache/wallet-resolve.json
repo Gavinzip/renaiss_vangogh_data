@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": 1780632352117,
+  "updatedAt": 1780635955259,
   "entries": {
     "0x03de85370bd5f0818007ee79a74b73571f2f21c7": {
       "fetchedAt": 1780567609111,
@@ -2043,7 +2043,7 @@
       }
     },
     "0x28732603d230643192de01309320d3de6eaaca0b": {
-      "fetchedAt": 1780546014495,
+      "fetchedAt": 1780635952963,
       "data": {
         "canonical": "0x28732603d230643192de01309320d3de6eaaca0b",
         "old_addresses": [],
@@ -2051,7 +2051,7 @@
       }
     },
     "0xcc229d8f6958ab84e8bbf259dde13bd79bdd6d06": {
-      "fetchedAt": 1780546016137,
+      "fetchedAt": 1780635954721,
       "data": {
         "canonical": "0xcc229d8f6958ab84e8bbf259dde13bd79bdd6d06",
         "old_addresses": [],
@@ -2214,6 +2214,14 @@
       "fetchedAt": 1780599962340,
       "data": {
         "canonical": "0x756a4aeeb7e6e36585f7c87777fc3b3e2973f85d",
+        "old_addresses": [],
+        "resolved_from_old": false
+      }
+    },
+    "0x87179905812cb73b4b4ad636e5a4b12dbff22847": {
+      "fetchedAt": 1780635953957,
+      "data": {
+        "canonical": "0x87179905812cb73b4b4ad636e5a4b12dbff22847",
         "old_addresses": [],
         "resolved_from_old": false
       }
